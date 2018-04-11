@@ -1,14 +1,14 @@
 exclude_patterns:
-- "config/",
-- "db/",
-- "dist/",
-- "features/",
-- "script/",
-- "dev-utils/",
-- "**/test/",
-- "**/*.js",
-- "**/*.css",
-- "**/resources/",
-- "**/lib/",
-- "**/*.xml",
+- "config/"
+- "db/"
+- "dist/"
+- "features/"
+- "script/"
+- "dev-utils/"
+- "**/test/"
+- "**/*.js"
+- "**/*.css"
+- "**/resources/"
+- "**/lib/"
+- "**/*.xml"
 - "**/*.properties"
