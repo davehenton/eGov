@@ -1,3 +1,6 @@
+plugins:
+  pmd:
+    enabled: true
 exclude_patterns:
 - "config/"
 - "db/"
