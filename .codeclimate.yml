@@ -16,3 +16,4 @@ exclude_patterns:
 - "**/*.xml"
 - "**/*.properties"
 - "RestAdvertisementController.java"
+- "RemittanceServiceImpl.java"
