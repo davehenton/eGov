@@ -18,3 +18,4 @@ exclude_patterns:
 - "RestAdvertisementController.java"
 - "RemittanceServiceImpl.java"
 - "UpdateAssessmentController.java"
+- "SewerageChargeCalculationService.java"
