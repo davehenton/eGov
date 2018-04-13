@@ -1,6 +1,8 @@
 plugins:
   pmd:
     enabled: true
+  duplication:
+    enabled: false
 exclude_patterns:
 - "config/"
 - "db/"
@@ -19,3 +21,4 @@ exclude_patterns:
 - "RemittanceServiceImpl.java"
 - "UpdateAssessmentController.java"
 - "SewerageChargeCalculationService.java"
+- "ValidationUtil.java"
