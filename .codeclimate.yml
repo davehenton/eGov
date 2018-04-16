@@ -3,6 +3,8 @@ plugins:
     enabled: true
   duplication:
     enabled: false
+  structure:
+    enabled: false
 exclude_patterns:
 - "config/"
 - "db/"
